@@ -1,0 +1,36 @@
+2017-07-28 12:16:59,838 [5] DEBUG DemoLog [(null)] - Error Occured 
+System.DivideByZeroException: Attempted to divide by zero.
+   at TryMVC1.Controllers.HomeController.Index() in C:\MyRepo1\TryMVC1\TryMVC1\Controllers\HomeController.cs:line 22
+2017-07-28 12:17:58,729 [14] DEBUG DemoLog [(null)] - Error Occured 
+System.DivideByZeroException: Attempted to divide by zero.
+   at TryMVC1.Controllers.HomeController.Index() in C:\MyRepo1\TryMVC1\TryMVC1\Controllers\HomeController.cs:line 22
+2017-07-28 12:18:00,081 [15] DEBUG DemoLog [(null)] - Error Occured 
+System.DivideByZeroException: Attempted to divide by zero.
+   at TryMVC1.Controllers.HomeController.Index() in C:\MyRepo1\TryMVC1\TryMVC1\Controllers\HomeController.cs:line 22
+2017-07-28 12:18:01,229 [5] DEBUG DemoLog [(null)] - Error Occured 
+System.DivideByZeroException: Attempted to divide by zero.
+   at TryMVC1.Controllers.HomeController.Index() in C:\MyRepo1\TryMVC1\TryMVC1\Controllers\HomeController.cs:line 22
+2017-07-28 12:18:02,144 [11] DEBUG DemoLog [(null)] - Error Occured 
+System.DivideByZeroException: Attempted to divide by zero.
+   at TryMVC1.Controllers.HomeController.Index() in C:\MyRepo1\TryMVC1\TryMVC1\Controllers\HomeController.cs:line 22
+2017-07-28 12:18:03,195 [5] DEBUG DemoLog [(null)] - Error Occured 
+System.DivideByZeroException: Attempted to divide by zero.
+   at TryMVC1.Controllers.HomeController.Index() in C:\MyRepo1\TryMVC1\TryMVC1\Controllers\HomeController.cs:line 22
+2017-07-28 12:18:03,698 [14] DEBUG DemoLog [(null)] - Error Occured 
+System.DivideByZeroException: Attempted to divide by zero.
+   at TryMVC1.Controllers.HomeController.Index() in C:\MyRepo1\TryMVC1\TryMVC1\Controllers\HomeController.cs:line 22
+2017-07-28 12:29:05,638 [7] DEBUG DemoLog [(null)] - Error Occured in Index
+System.DivideByZeroException: Attempted to divide by zero.
+   at TryMVC1.Controllers.HomeController.Index() in C:\MyRepo1\TryMVC1\TryMVC1\Controllers\HomeController.cs:line 22
+2017-07-28 12:29:26,933 [12] DEBUG DemoLog [(null)] - Error Occured in Index
+System.DivideByZeroException: Attempted to divide by zero.
+   at TryMVC1.Controllers.HomeController.Index() in C:\MyRepo1\TryMVC1\TryMVC1\Controllers\HomeController.cs:line 22
+2017-07-28 12:29:28,100 [7] DEBUG DemoLog [(null)] - Error Occured in Index
+System.DivideByZeroException: Attempted to divide by zero.
+   at TryMVC1.Controllers.HomeController.Index() in C:\MyRepo1\TryMVC1\TryMVC1\Controllers\HomeController.cs:line 22
+2017-07-28 12:29:57,281 [7] DEBUG DemoLog [(null)] - Error Occured in Index
+System.DivideByZeroException: Attempted to divide by zero.
+   at TryMVC1.Controllers.HomeController.Index() in C:\MyRepo1\TryMVC1\TryMVC1\Controllers\HomeController.cs:line 22
+2017-07-28 12:29:58,140 [11] DEBUG DemoLog [(null)] - Error Occured in Index
+System.DivideByZeroException: Attempted to divide by zero.
+   at TryMVC1.Controllers.HomeController.Index() in C:\MyRepo1\TryMVC1\TryMVC1\Controllers\HomeController.cs:line 22
